@@ -11,6 +11,6 @@ print(a)
 for i in a:
     sum=sum+i
 if(sum==c):
-    print("all students are setisfied")
+    print("all students are done")
 else:
     print("students not setisfied")
